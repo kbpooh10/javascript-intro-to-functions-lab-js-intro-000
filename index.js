@@ -13,9 +13,9 @@ function whisper(string) {
 function logShout(string) {
   uppercase = string.toUpperCase();
   string = lowercase
-  console.console.log(uppercase);
+  console.log(uppercase);
 }
-function logWhipser(string) {
+function logWhisper(string) {
   lowercase = string.toLowerCase()
   string = uppercase;
   console.log(lowercase);
